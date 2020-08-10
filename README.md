@@ -1,7 +1,8 @@
 <h1 align="center">
     <img alt="Proffy" title="Proffy" src="public\images\logo.svg" width="220px" />
 </h1>
-
+<h3 align="center">Online study platform where students can connect with teachers.</h3> 
+<p align="center">Developed during NLW#2 💜🚀</p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

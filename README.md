@@ -21,7 +21,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/)<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 
 ## 💻 Projeto
 
@@ -42,7 +42,7 @@ Você pode visualizar o layout do projeto no Figma, ele está dividido em duas v
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: </br>
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). </br>
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/)<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">. </br>
 Além disto é bom ter um editor para trabalhar com o código como _VSCode_
 
 ## 🤔 Como contribuir

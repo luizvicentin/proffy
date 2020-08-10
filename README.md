@@ -42,8 +42,9 @@ Você pode visualizar o layout do projeto no Figma, ele está dividido em duas v
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: </br>
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/)<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">. </br>
-Além disto é bom ter um editor para trabalhar com o código como _VSCode_
+- [Git](https://git-scm.com)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="20" height="20/>"
+- [Node.js](https://nodejs.org/en/)<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></br>
+Além disto é bom ter um editor para trabalhar com o código como _VSCode_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vscode" width="20" height="20"/>
 
 ## 🤔 Como contribuir
 

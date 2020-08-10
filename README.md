@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".public\images\1.jpg" width="100%">
+  <img alt="Proffy" src="public\images\1.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
